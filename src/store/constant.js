@@ -1,0 +1,2 @@
+export const SET_SLIDERSTATE = 'SET_SLIDERSTATE'
+export const SET_LANGUAGE = 'SET_LANGUAGE'
